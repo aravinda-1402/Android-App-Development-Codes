@@ -1,0 +1,3 @@
+https://github.com/Fabhi/LAB/blob/master/6th%20Sem/AT%20LAB/Lab2/app/src/main/java/com/gmail/fabhin7/lab2/MainActivity2.java
+
+https://github.com/Fabhi/LAB/blob/master/6th%20Sem/AT%20LAB/Lab2/app/src/main/res/layout/activity_main2.xml
